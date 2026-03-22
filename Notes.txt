@@ -1,0 +1,6 @@
+MDN JS Docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+For JS Standards: ECMAScript®
+ECMAScript® Language Specification : https://262.ecma-international.org/5.1/
+
+Dependency Injection
+https://medium.com/geekculture/dependency-injection-in-javascript-2d2e4ad9df49

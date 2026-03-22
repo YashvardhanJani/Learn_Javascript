@@ -47,12 +47,13 @@ This repository is ideal for:
 
 | Module | Description |  Link |
 |----------|--------------|--------|
-| 01_Basics | Variables, Data Types, Convertion, String, Number-Math, Dates | [`🔗 View`](./01_Basics/) |
-| 02_Basics | Arrays, Objects | [`🔗 View`](./02_Basics/) |
-| 03_Basics | Functions, Scopes, Arrow-Functions, IIFE | [`🔗 View`](./03_Basics/) |
-| 04_Control-Flow | if-else, comparison, switch | [`🔗 View`](./04_Control-Flow/) |
-| 05_Iterations | All type of loops | [`🔗 View`](./05_Iterations/) |
-| 10_OOPs | Classes-Objects, prototype, inheritance, static, call & bind, getter-setter  | [`🔗 View`](./10_OOPss/) |
+| 01_Basics | Variables, Data Types, Convertion, String, Number-Math, Dates | 🔗[`View`](./01_Basics/) |
+| 02_Basics | Arrays, Objects | 🔗[`View`](./02_Basics/) |
+| 03_Basics | Functions, Scopes, Arrow-Functions, IIFE | 🔗[`View`](./03_Basics/) |
+| 04_Control-Flow | if-else, comparison, switch | 🔗[`View`](./04_Control-Flow/) |
+| 05_Iterations | All type of loops | 🔗[`View`](./05_Iterations/) |
+| 10_OOPs | Classes-Objects, prototype, inheritance, static, call & bind, getter-setter  | 🔗[`View`](./10_OOPs/) |
+| Notes | IMP Notes, Points & Links | 🔗[`View`](./Notes.txt/) |
 
 </div>
 
