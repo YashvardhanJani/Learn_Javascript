@@ -15,7 +15,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/YashvardhanJani/Learn_Javascript?style=flat)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YashvardhanJani.Learn_Javascript&left_color=grey&right_color=black&format=true)
 
-⭐ Star this repository if you found it helpful! ⭐
+**⭐ Star this repository if you found it helpful! ⭐**
 
 ---
 
@@ -53,6 +53,7 @@ This repository is ideal for:
 | 04_Control-Flow | if-else, comparison, switch | 🔗[`View`](./04_Control-Flow/) |
 | 05_Iterations | All type of loops | 🔗[`View`](./05_Iterations/) |
 | 10_OOPs | Classes-Objects, prototype, inheritance, static, call & bind, getter-setter  | 🔗[`View`](./10_OOPs/) |
+| 11_FunWithJS | Closure, Lexical Scope  | 🔗[`View`](./11_FunWithJS/) |
 | Notes | IMP Notes, Points & Links | 🔗[`View`](./Notes.txt/) |
 
 </div>
