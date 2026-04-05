@@ -64,7 +64,7 @@ This repository is ideal for:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/YashvardhanJani/Learn_Javascript.git
-   cd PDEU-CPP-OOP-Programs
+   cd Learn_Javascript
    ```
 
 ## Contributing
